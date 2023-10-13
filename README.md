@@ -13,6 +13,6 @@ Hey there, my name is Ron but you can call me devi.<br>I am a 15 years old game 
 ![](https://github-profile-trophy.vercel.app/?username=itzdevi&theme=radical&no-frame=true&no-bg=false&margin-w=4)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=itzdevi&icon=5&color=6)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=devi&label=Profile%20Views&color=6&icon=5&pretty=true)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
