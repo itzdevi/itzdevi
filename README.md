@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hey there, my name is Ron but you can call me devi.<br>I am a 15 years old game developer with 4 years of experience. I started with Roblox Studio and then move onto Unity Engine<br>Currently my main projects are programming in FRC team DEMACIA 5635 and working on Kelvin game engine.
+Hey there, my name is Ron but you can call me devi.<br>I am a 15 years old game developer with 4 years of experience. I started with Roblox Studio and then moved onto Unity Engine<br>Currently my main projects are programming in FRC team DEMACIA 5635 and working on Kelvin game engine.
 
 
 # 💻 Tech Stack:
